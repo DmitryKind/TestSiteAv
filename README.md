@@ -15,11 +15,11 @@ Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can
 List of required software
 You need install:
 1.Java SE Development Kit 8
-2.NodeJs 6 
+ 2.NodeJs 6 
 3.node modules
-4.IDE WebStorm 2017.1.4 
+ 4.IDE WebStorm 2017.1.4 
 5.Protractor framework
-6.Jasmine framework
+ 6.Jasmine framework
 
 Instalation:
 1.http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html download and install JDK 8
